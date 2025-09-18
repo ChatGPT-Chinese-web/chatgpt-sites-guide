@@ -11,7 +11,7 @@
 ### 🚀 直达入口
 
 - ChatGPT 中文版官网：[xsimplechat.com](https://xsimplechat.com)
-- ChatGPT 镜像站导航：[chat.lanjingai.org](https://chat.lanjingai.org)
+- ChatGPT 镜像站导航：[ai.lanjingai.org](https://ai.lanjingai.org)
 
 ## 🤔 ChatGPT 中文版是什么？
 
